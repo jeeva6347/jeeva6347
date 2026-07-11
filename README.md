@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**jeeva6347/jeeva6347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Jeeva
 
-Here are some ideas to get you started:
+🎓 BCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Python Full Stack Developer
+
+## 🚀 Tech Stack
+
+- Python
+- Django
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- MySQL
+- Git
+- GitHub
+
+## 📌 Projects
+
+### Payroll Management System
+A complete payroll system built using Django.
+
+
+### Directory management system
+
+## 🌱 Currently Learning
+
+- Django REST Framework
+- React
+- PostgreSQL
+
+## 📫 Contact
+
+Email: jeevalawrance2004@gmail.com
+LinkedIn: linkedin.com/in/jeeva-l-5bb2a4387
